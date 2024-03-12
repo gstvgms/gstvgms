@@ -12,10 +12,7 @@ Sou estagiário na Volvo, atuando na parte de documentação, levantamento de re
 
 ## 💻 Linguagens de Programação
 
-- **Java** básico
-- **PHP:** básico
-- **JavaScript:** básico
-- **C:** básico
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,php,c,git)](https://skillicons.dev)
 
 ## 📫 Contato
 
