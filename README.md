@@ -16,5 +16,5 @@ Sou estagiário na Volvo, atuando na parte de documentação, levantamento de re
 
 ## 📫 Contato
 
-- [![Email](https://skillicons.dev/icons?i=gmail)](gusta.trab.estudo@gmail.com)
-- [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/gustadev/)
+ [![Email](https://skillicons.dev/icons?i=gmail)](gusta.trab.estudo@gmail.com)
+ [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/gustadev/)
