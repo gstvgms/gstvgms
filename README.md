@@ -12,13 +12,9 @@ Sou estagiário na Volvo, atuando na parte de documentação, levantamento de re
 
 ## 💻 Linguagens de Programação
 
-<p align ="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,java,php,c,git"/>
-  </a>
-</p>
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,php,c,git)](https://skillicons.dev)
 
 ## 📫 Contato
 
-- [E-mail](gusta.trab.estudo@gmail.com)
-- [LinkedIn](https://www.linkedin.com/in/gustadev/)
+- [![Email](https://skillicons.dev/icons?i=gmail)](gusta.trab.estudo@gmail.com)
+- [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/gustadev/)
