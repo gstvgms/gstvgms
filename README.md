@@ -20,4 +20,4 @@ Sou estagiário na Volvo, atuando na parte de documentação, levantamento de re
 ## 📫 Contato
 
 - [E-mail](gusta.trab.estudo@gmail.com)
-- [LinkedIn](https://www.linkedin.com/in/seu-perfil/](https://www.linkedin.com/in/gustadev/)https://www.linkedin.com/in/gustadev/)
+- [LinkedIn](https://www.linkedin.com/in/gustadev/)
