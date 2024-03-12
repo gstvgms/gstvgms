@@ -1,14 +1,16 @@
 # 👋 Olá, eu sou Gustavo!
+## Estudante de Análise e Desenvolvimento de Sistemas | Estagiário na Volvo
 
-## 🚀 Sobre mim
 
-Sou estagiário na Volvo, atuando na parte de documentação, levantamento de requisitos, etc. Também trabalho com ServiceNow e já atuei com low code utilizando o PowerAutomate. Estou em busca de conhecimento e experiência na área de desenvolvimento de software, sempre em busca de aprender novas tecnologias e aprimorar minhas habilidades.
+## 🚀 Sobre Mim
+
+Atualmente estou cursando Análise e Desenvolvimento de Sistemas na Faculdade Senac e sou estagiário na Volvo. Minhas principais atividades incluem documentação, levantamento de requisitos e colaboração com a equipe de ServiceNow. Além disso, já trabalhei com low code usando o PowerAutomate. Estou sempre em busca de conhecimento e experiência na área de desenvolvimento de software.
+
 
 ## 🎯 Objetivos
-
-- Contribuir para projetos de código aberto
-- Aprender novas tecnologias e ferramentas
-- Desenvolver habilidades de programação e resolução de problemas
+- 🌟 Contribuir para projetos de código aberto
+- 📚 Aprender novas tecnologias e ferramentas
+- 💻 Desenvolver habilidades de programação e resolução de problemas
 
 ## 💻 Linguagens de Programação
 
@@ -16,5 +18,5 @@ Sou estagiário na Volvo, atuando na parte de documentação, levantamento de re
 
 ## 📫 Contato
 
- [![Email](https://skillicons.dev/icons?i=gmail)](gusta.trab.estudo@gmail.com)
- [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/gustadev/)
+- Email [![Email](https://skillicons.dev/icons?i=gmail)](gusta.trab.estudo@gmail.com)
+- Linkedin [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/gustadev/)
