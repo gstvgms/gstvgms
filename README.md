@@ -19,5 +19,5 @@ Atualmente estou cursando Análise e Desenvolvimento de Sistemas na Faculdade Se
 ## 📫 Contato
 
 
- [![Email](https://skillicons.dev/icons?i=gmail)](gusta.trab.estudo@gmail.com)
+ [![Email](https://skillicons.dev/icons?i=gmail)](mailto:gusta.trab.estudo@gmail.com)
  [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/gustadev/)
