@@ -4,7 +4,7 @@
 
 ## 🚀 Sobre Mim
 
-Atualmente estou cursando Análise e Desenvolvimento de Sistemas na Faculdade Senac e sou estagiário na Volvo. Minhas principais atividades incluem documentação, levantamento de requisitos e colaboração com a equipe de ServiceNow. Além disso, já trabalhei com low code usando o PowerAutomate. Estou sempre em busca de conhecimento e experiência na área de desenvolvimento de software.
+Atualmente estou cursando o último período de Análise e Desenvolvimento de Sistemas na Faculdade Senac. Durante meu estágio de 2 anos na Volvo do Brasil, realizei atividades que incluiam documentação, levantamento de requisitos e colaboração com a equipe de ServiceNow. Além disso, já trabalhei com low code usando o PowerAutomate. Estou sempre em busca de conhecimento e experiência na área de desenvolvimento de software.
 
 
 ## 🎯 Objetivos
