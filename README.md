@@ -4,7 +4,7 @@
 
 ## 🚀 Sobre Mim
 
-Atualmente estou cursando o último período de Análise e Desenvolvimento de Sistemas na Faculdade Senac. Durante meu estágio de 2 anos na Volvo do Brasil, realizei atividades que incluiam documentação, levantamento de requisitos e colaboração com a equipe de ServiceNow. Além disso, já trabalhei com low code usando o PowerAutomate. Estou sempre em busca de conhecimento e experiência na área de desenvolvimento de software.
+Atualmente estou cursando a pós-graduação em Arquitetura e Gestão de Infraestrutura de TI na Universidade Tecnológica do Paraná. Tenho diversas experiências com automações, principalmente web scrapping utilizando Selenium e Playwright. Meu foco atual é no desenvolvimento do aplicativo Samba, que pode ser utilizado no endereço sambachat.app.
 
 
 ## 🎯 Objetivos
