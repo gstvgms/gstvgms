@@ -4,7 +4,7 @@
 
 ## 🚀 Sobre Mim
 
-Atualmente estou cursando a pós-graduação em Arquitetura e Gestão de Infraestrutura de TI na Universidade Tecnológica do Paraná. Tenho diversas experiências com automações, principalmente web scrapping utilizando Selenium e Playwright. Meu foco atual é no desenvolvimento do aplicativo Samba, que pode ser utilizado no endereço sambachat.app.
+Atualmente estou cursando a pós-graduação em Arquitetura e Gestão de Infraestrutura de TI na Universidade Tecnológica do Paraná. Tenho diversas experiências com automações, principalmente web scrapping utilizando Selenium e Playwright. Meu foco atual é no desenvolvimento do aplicativo Samba, que pode ser utilizado no endereço [sambachat.app](https://sambachat.app/).
 
 
 ## 🎯 Objetivos
